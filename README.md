@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Somos Sirtech inc.</h1>
+<h1 align="center">Hola 👋, Somos Sircode inc.</h1>
 <h3 align="center">Apasionados por la tecnologia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
